@@ -1,4 +1,8 @@
-This simulation aims to produce realistic acceleration times given a car's data
+This simulation aims to produce realistic acceleration times given a car's data.
+It simulates the force the engine puts through the tyres and pushes the car forward, the various drag forces from the body and tyres, and longitudinal load transfer and acceleration G force. Also, it takes into account the time cars need to shift gears. The scope was to find the optimal acceleration times, therefore a tyre model with slip ratio wasnt included, wheelspin isnt simulated, but instead a calculation of the maximum force the tyre can put on the road based on tyre characteristics and vertical load.
+For now, only RWD cars are used, and both wheels are assumed to have the same power input (locked differential), and same grip.
+The results of the simulation for the McLaren Speedtail and McLaren F1 are very close to the ones that various websites report for the real cars.
+Below are the version changelogs and some plots from the program.
 
 # Version 1
 
