@@ -23,7 +23,7 @@ v3:
 - using the data of the mclaren f1 and mclaren speedtail
 - launching is more realistic:
     - cant always use 100% of the traction when launching from a standstill because of random factors
-    - longitudinal load transfer is now simulated, with much better 0-60 times
+    - longitudinal load transfer is now simulated, with much better 0-60 times (McLaren F1 from 4+ seconds to 3+)
 - added aerodynamic drag of wheels
 - downforce now plays a role in rolling resistance
 
