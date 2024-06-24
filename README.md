@@ -7,10 +7,12 @@
 
 # Version 3
 I skipped uploading v2
+
 v2:
 - simulating launch RPM
 - simulating shift time and rpms dropping in between
 - fixed physics breaking when launching from a standstill
+  
 v3:
 - using the data of the mclaren f1 and mclaren speedtail
 - launching is more realistic:
@@ -19,6 +21,8 @@ v3:
 - added aerodynamic drag of wheels
 - downforce now plays a role in rolling resistance
 
+v4:
+- fixed physics breaking when launching from high rpm
 <img width="400" alt="image" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/c39a6378-7f3a-4423-b412-a8c10a569e44">
 <img width="393" alt="image" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/1892968f-57a1-402f-ab45-ba7baa585707">
 <img width="398" alt="image" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/f270498b-066d-4c2b-85b5-2168fb272684">
