@@ -1,3 +1,5 @@
+This simulation aims to produce realistic acceleration times given a car's data
+
 # Version 1
 
 <img width="480" alt="SCR-20240623-rfnl" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/d10a68e8-de94-4ef5-87ff-679f645f2085">
