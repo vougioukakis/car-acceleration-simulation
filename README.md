@@ -33,3 +33,7 @@ v4:
 <img width="393" alt="image" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/1892968f-57a1-402f-ab45-ba7baa585707">
 <img width="398" alt="image" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/f270498b-066d-4c2b-85b5-2168fb272684">
 <img width="394" alt="image" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/2d1f69cf-e665-4280-bb3e-1b2fcd0e446e">
+
+On the right are the simulation results compared to a real world measurement for the McLaren Speedtail
+<img width="812" alt="image" src="https://github.com/vougioukakis/car-acceleration-simulation/assets/121321765/11f387fc-2377-4f70-9839-6010a1fc0fc3">
+
