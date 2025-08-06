@@ -3,6 +3,10 @@ It simulates the force the engine puts through the tyres and pushes the car forw
 The results of the simulation for the cars used are very close to the ones that various websites report for the real cars.
 Below are the version changelogs and some plots from the program.
 
+NOTE:
+A more advanced version of the simulation is used in the online interactive application, with sophisticated tire model, manual shifting, lots of cars and sounds:
+https://nitros-drag-strip.vercel.app/
+
 v5:
 - 5.1 : little rpm 'blip' from the clutch slip after every gear change, depending on the car's shift delay coefficient
 - code generalized more to support various different cars, FWD and AWD now supported.
